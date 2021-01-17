@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
         </a>
-        new changes
+        new changes hai to mai ka kru
       </header>
     </div>
   );
